@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=lualatex 2020.10.21)  26 OCT 2020 20:52
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=lualatex 2020.10.21)  26 OCT 2020 21:05
  restricted system commands enabled.
 **cv_13.tex
 (./cv_13.tex
@@ -586,7 +586,7 @@ Here is how much of LuaTeX's memory you used:
 <./fonts/Erewhon-BoldItalic.otf><./fonts/Erewhon-Italic.otf><./fonts/Erewhon-Reg
 ular.otf><./fonts/Erewhon-Bold.otf></usr/share/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmmi7.pfb>
-Output written on cv_13.pdf (3 pages, 44976 bytes).
+Output written on cv_13.pdf (3 pages, 44990 bytes).
 
 PDF statistics: 101 PDF objects out of 1000 (max. 8388607)
  82 compressed objects within 1 object stream
